@@ -1,5 +1,3 @@
-***
-
 # Executive Summary
 
 JIRA and Tempo have historically underpinned engineering backlog management, sprint tracking, workflow management and the majority of engineering metrics reported to the CTO office. The organisation has selected Strawberry Moon and OneStack as the strategic platforms for engineering tracking, reporting and metrics management going forward.

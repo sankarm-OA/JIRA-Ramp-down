@@ -6,7 +6,7 @@ tshirt: M
 final_decommissioning_closeout: 0
 ---
 
-# Formally decommission JIRA and Tempo metrics
+# Formally phase out JIRA and Tempo metrics for CTO Domain by end of Q3
 
 ## Release Information
 
@@ -19,7 +19,7 @@ Frontier Toolset successfully retires legacy JIRA and Tempo infrastructure, comp
 
 ## Summary
 
-We are formally decommissioning JIRA and Tempo as part of the OneStack consolidation initiative. This release closes out all licensing agreements, archives required data per retention policy, and captures critical lessons learned to inform future infrastructure decisions. The transition consolidates project management and resource planning into unified OneStack tooling.
+We are formally phase out JIRA and Tempo as part of the OneStack consolidation initiative. This release closes out all licensing agreements, archives required data per retention policy, and captures critical lessons learned to inform future infrastructure decisions. The transition consolidates project management and resource planning into unified OneStack tooling.
 
 ## Problem Statement
 

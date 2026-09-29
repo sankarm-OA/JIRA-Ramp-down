@@ -1,5 +1,5 @@
 # Auto-generated — do not edit manually
-# Updated: 2026-09-29T11:45:41.207Z
+# Updated: 2026-09-29T15:08:49.647Z
 
 documents:
   - path: docs/StrawberryMoon/Execution/native-time-tracking-and-effort-logging-replaces-tempo-consolidating-scheduling-costing-and-l-d-reporting-in-a-unified-platform/2.native-time-entry-and-timesheet-management.epic.md
@@ -37,13 +37,6 @@ documents:
     moscow: Must
     tshirt: L
     parent_press_release: native-time-tracking-and-effort-logging-replaces-tempo-consolidating-scheduling-costing-and-l-d-reporting-in-a-unified-platform.pr.md
-  - path: docs/StrawberryMoon/Execution/strawberry-moon-and-onestack-launch-with-foundational-project-infrastructure-ready-for-data-migration-and-live-sprint-execution.pr.md
-    id: 4dca660e-7702-4e54-8e70-e7af7d5f0c9f
-    category: press-release
-    status: Draft
-    tshirt: M
-    period: Q3 FY26
-    targetDate: 2026-09-30
   - path: docs/StrawberryMoon/Execution/frontier-toolset-successfully-retires-legacy-jira-and-tempo-infrastructure-completing-onestack-consolidation-and-reducing-operational-overhead.pr.md
     id: 6d90a1f1-58b3-4de3-aa1e-da8d00115995
     category: press-release
@@ -74,20 +67,6 @@ documents:
     targetDate: 2026-09-30
   - path: docs/StrawberryMoon/Execution/comprehensive-jira-and-tempo-inventory-assessment-the-factual-foundation-for-frontier-migration-planning.pr.md
     id: aa45c9f2-b29e-4599-a96d-2e53b4d83286
-    category: press-release
-    status: Draft
-    tshirt: M
-    period: Q3 FY26
-    targetDate: 2026-09-30
-  - path: docs/StrawberryMoon/Execution/unified-integration-hub-migrate-eight-critical-tool-connectors-from-jira-to-strawberry-moon-onestack-with-zero-pipeline-disruption.pr.md
-    id: ab255b9e-711f-4dd6-a711-10acc5d105c8
-    category: press-release
-    status: Draft
-    tshirt: M
-    period: Q3 FY26
-    targetDate: 2026-09-30
-  - path: docs/StrawberryMoon/Execution/engineering-metrics-parity-achieved-all-jira-tempo-sourced-metrics-rebuilt-and-validated-in-onestack-before-legacy-system-retirement.pr.md
-    id: acc5cbd7-9b62-4da7-9e02-f92c30c35cf3
     category: press-release
     status: Draft
     tshirt: M

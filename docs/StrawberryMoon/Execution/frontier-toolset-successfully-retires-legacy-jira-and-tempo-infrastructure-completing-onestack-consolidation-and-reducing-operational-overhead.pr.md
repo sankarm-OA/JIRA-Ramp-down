@@ -11,7 +11,7 @@ final_decommissioning_closeout: 0
 ## Release Information
 
 **Product/Module:** Frontier Toolset (OneStack Roll Out)
-**Version:** 1.0 — phase out JIRA and Tempo
+**Version:** 1.0 — Phase out JIRA and Tempo
 
 ## Headline
 

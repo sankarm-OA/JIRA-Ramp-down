@@ -1,5 +1,5 @@
 # Auto-generated — do not edit manually
-# Updated: 2026-09-28T12:16:59.613Z
+# Updated: 2026-09-29T11:45:41.207Z
 
 documents:
   - path: docs/StrawberryMoon/Execution/native-time-tracking-and-effort-logging-replaces-tempo-consolidating-scheduling-costing-and-l-d-reporting-in-a-unified-platform/2.native-time-entry-and-timesheet-management.epic.md
@@ -16,6 +16,13 @@ documents:
     tshirt: M
     period: Q3 FY26
     targetDate: 2026-09-30
+  - path: docs/StrawberryMoon/Execution/organization-transitions-engineering-backlog-sprint-tracking-and-metrics-reporting-from-jira-and-tempo-to-strawberry-moon-and-onestack/1.inventory-all-jira-projects-issue-types-workflows-and-screen-schemes.epic.md
+    id: 1c9a0f5e-a757-416c-abc2-3b10db7d1a6d
+    category: epic
+    status: Draft
+    moscow: Must
+    tshirt: M
+    parent_press_release: organization-transitions-engineering-backlog-sprint-tracking-and-metrics-reporting-from-jira-and-tempo-to-strawberry-moon-and-onestack.pr.md
   - path: docs/StrawberryMoon/Execution/frontier-toolset-successfully-retires-legacy-jira-and-tempo-infrastructure-completing-onestack-consolidation-and-reducing-operational-overhead/1.legacy-data-archival-and-compliance-storage.epic.md
     id: 371d0703-83d8-44e8-b721-1da26f25a1e3
     category: epic

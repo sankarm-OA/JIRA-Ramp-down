@@ -3,60 +3,35 @@ status: Draft
 targetDate: 2026-09-30
 period: Q3 FY26
 tshirt: M
-final_decommissioning_closeout: 0
 ---
 
-# Formally phase out JIRA and Tempo metrics for CTO Domain by end of Q3
+# All Engineering metrics to align with Frontier ways of working (SMoon and OneStack) for CTO Organisation by end of Q3 ensuring continuity of MI data
 
 ## Release Information
 
-**Product/Module:** Frontier Toolset (OneStack Roll Out)
-**Version:** 1.0 — Phase out JIRA and Tempo
+**Product/Module:** CTO Organisation — Engineering Metrics & Reporting Platform
+**Version:** Frontier Alignment 1.0 (Q3 Target)
 
 ## Headline
 
-Frontier Toolset successfully retires legacy JIRA and Tempo infrastructure, completing OneStack consolidation and reducing operational overhead.
+CTO Organisation Unifies Engineering Metrics Under Frontier Framework (SMoon and OneStack) to Deliver Seamless, Real-Time Management Information
 
 ## Summary
 
-We are formally phase out JIRA and Tempo as part of the OneStack consolidation initiative. This release closes out all licensing agreements, archives required data per retention policy, and captures critical lessons learned to inform future infrastructure decisions. The transition consolidates project management and resource planning into unified OneStack tooling.
+By end of Q3, the CTO Organisation is transitioning all engineering performance and delivery metrics to standard Frontier ways of working across SMoon and OneStack. This unified measurement framework guarantees zero disruption to historical Management Information (MI) data while establishing standardized visibility across teams.
 
 ## Problem Statement
 
-Maintaining dual legacy systems (JIRA and Tempo) alongside new OneStack infrastructure creates redundant licensing costs, fragmented data governance, operational complexity, and splits team context across incompatible platforms. Data retention and compliance requirements demand systematic archival before systems sunset. Organizational knowledge about migration challenges and integration patterns is at risk of being lost.
+Engineering teams across SMoon and OneStack currently operate with fragmented tooling, disparate measurement conventions, and inconsistent reporting pipelines. This creates blind spots for leadership, inflates reporting overhead, and introduces data drift that threatens MI reporting continuity across the broader CTO organisation.
 
 ## Solution
 
-Execute a structured decommissioning program that terminates JIRA and Tempo licenses, archives all required data according to retention policy, documents migration outcomes, and captures lessons learned. This formalizes the transition to OneStack as the single source of truth for project and resource management, reducing costs and operational burden while ensuring compliance and knowledge preservation.
+Implement a single, reconciled metric ingestion and reporting architecture aligned with Frontier standards across both SMoon and OneStack ecosystems. The release bridges legacy tracking mechanisms into standard Frontier pipelines, backfilling and mapping historical datasets to ensure unbroken longitudinal MI reporting.
 
-## Key Features
-
-* Complete license termination and cost closure for JIRA and Tempo
-* Systematic data archival following enterprise retention policy requirements
-* Comprehensive lessons-learned documentation capturing migration insights and integration patterns
-* Clean transition validation confirming all critical data migrated to OneStack
-* Stakeholder communication plan and training wrap-up
-
-## Customer Benefits
-
-* Reduced operational and licensing overhead through infrastructure consolidation
-* Simplified tooling landscape and clearer single source of truth for projects and resources
-* Assured compliance with data retention and governance policies
-* Organizational knowledge preserved for future migrations and platform decisions
-* Teams freed from context-switching between incompatible systems
-
-## Customer Quote (Imagined)
-
-> "Sunsetting JIRA and Tempo was smoother than expected because of the systematic approach to data archival and the clear documentation of what we learned. Now the team can focus entirely on OneStack without wondering if we left something behind."
-
-## Call to Action
-
-Review the decommissioning checklist in Internal Notes. Confirm data archival completion with Compliance and Records Management. Attend the final lessons-learned session to share migration feedback and help shape future platform decisions.
+##
 
 ## Internal Notes
 
-* Archive deadline: End of Q3 FY26. All non-retained data must be securely deleted per
-
-***
-
-> ⚠️ This response was truncated because it exceeded the token limit. Use **Fit to limit** for a complete compressed version, or click **Continue generating** to extend it.
+* Scope limited to CTO Organisation engineering teams across SMoon and OneStack.
+* Coordinate with Data & MI teams on validation testing for historical trend continuity.
+* Execution timeline hard stop: End of Q3.

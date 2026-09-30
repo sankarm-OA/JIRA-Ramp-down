@@ -1,5 +1,5 @@
 # Auto-generated — do not edit manually
-# Updated: 2026-09-30T06:35:08.468Z
+# Updated: 2026-09-30T06:41:34.882Z
 
 documents:
   - path: docs/StrawberryMoon/Execution/native-time-tracking-and-effort-logging-replaces-tempo-consolidating-scheduling-costing-and-l-d-reporting-in-a-unified-platform/2.native-time-entry-and-timesheet-management.epic.md
@@ -23,13 +23,6 @@ documents:
     moscow: Must
     tshirt: M
     parent_press_release: organization-transitions-engineering-backlog-sprint-tracking-and-metrics-reporting-from-jira-and-tempo-to-strawberry-moon-and-onestack.pr.md
-  - path: docs/StrawberryMoon/Execution/frontier-toolset-successfully-retires-legacy-jira-and-tempo-infrastructure-completing-onestack-consolidation-and-reducing-operational-overhead/1.legacy-data-archival-and-compliance-storage.epic.md
-    id: 371d0703-83d8-44e8-b721-1da26f25a1e3
-    category: epic
-    status: Draft
-    moscow: Must
-    tshirt: L
-    parent_press_release: frontier-toolset-successfully-retires-legacy-jira-and-tempo-infrastructure-completing-onestack-consolidation-and-reducing-operational-overhead.pr.md
   - path: docs/StrawberryMoon/Execution/native-time-tracking-and-effort-logging-replaces-tempo-consolidating-scheduling-costing-and-l-d-reporting-in-a-unified-platform/1.tempo-historical-data-migration-and-ingestion-engine.epic.md
     id: 42f9b7c0-63ab-43be-a7b6-e2872e82b3f2
     category: epic
@@ -46,13 +39,6 @@ documents:
     targetDate: 2026-09-30
   - path: docs/StrawberryMoon/Execution/run-jira-tempo-and-strawberry-moon-onestack-in-parallel-for-controlled-validation-before-transitioning-to-read-only-mode.pr.md
     id: 78bcc849-794e-482e-a2e5-dc18c7a34061
-    category: press-release
-    status: Draft
-    tshirt: M
-    period: Q3 FY26
-    targetDate: 2026-09-30
-  - path: docs/StrawberryMoon/Execution/legacy-jira-and-tempo-systems-transition-to-read-only-historical-archive-following-successful-parallel-run-sign-off-and-full-platform-migration.pr.md
-    id: 84399cf8-0343-44f3-ad35-3441b094ff56
     category: press-release
     status: Draft
     tshirt: M

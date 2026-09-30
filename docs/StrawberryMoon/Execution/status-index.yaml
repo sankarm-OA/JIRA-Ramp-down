@@ -1,5 +1,5 @@
 # Auto-generated — do not edit manually
-# Updated: 2026-09-30T06:05:56.599Z
+# Updated: 2026-09-30T06:35:08.468Z
 
 documents:
   - path: docs/StrawberryMoon/Execution/native-time-tracking-and-effort-logging-replaces-tempo-consolidating-scheduling-costing-and-l-d-reporting-in-a-unified-platform/2.native-time-entry-and-timesheet-management.epic.md
@@ -51,22 +51,8 @@ documents:
     tshirt: M
     period: Q3 FY26
     targetDate: 2026-09-30
-  - path: docs/StrawberryMoon/Execution/seamlessly-migrate-your-complete-jira-and-tempo-history-to-frontier-zero-data-loss-full-fidelity.pr.md
-    id: 793d4533-d605-476f-9079-ee344d9f9062
-    category: press-release
-    status: Draft
-    tshirt: M
-    period: Q3 FY26
-    targetDate: 2026-09-30
   - path: docs/StrawberryMoon/Execution/legacy-jira-and-tempo-systems-transition-to-read-only-historical-archive-following-successful-parallel-run-sign-off-and-full-platform-migration.pr.md
     id: 84399cf8-0343-44f3-ad35-3441b094ff56
-    category: press-release
-    status: Draft
-    tshirt: M
-    period: Q3 FY26
-    targetDate: 2026-09-30
-  - path: docs/StrawberryMoon/Execution/comprehensive-jira-and-tempo-inventory-assessment-the-factual-foundation-for-frontier-migration-planning.pr.md
-    id: aa45c9f2-b29e-4599-a96d-2e53b4d83286
     category: press-release
     status: Draft
     tshirt: M

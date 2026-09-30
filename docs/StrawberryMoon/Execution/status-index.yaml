@@ -1,12 +1,12 @@
 # Auto-generated — do not edit manually
-# Updated: 2026-09-30T06:41:34.882Z
+# Updated: 2026-09-30T06:54:46.669Z
 
 documents:
   - path: docs/StrawberryMoon/Execution/native-time-tracking-and-effort-logging-replaces-tempo-consolidating-scheduling-costing-and-l-d-reporting-in-a-unified-platform/2.native-time-entry-and-timesheet-management.epic.md
     id: 058160e2-46d4-4de0-9eef-3e23bf282733
     category: epic
     status: Draft
-    moscow: Must
+    moscow: Should
     tshirt: L
     parent_press_release: native-time-tracking-and-effort-logging-replaces-tempo-consolidating-scheduling-costing-and-l-d-reporting-in-a-unified-platform.pr.md
   - path: docs/StrawberryMoon/Execution/organization-transitions-engineering-backlog-sprint-tracking-and-metrics-reporting-from-jira-and-tempo-to-strawberry-moon-and-onestack.pr.md
@@ -20,25 +20,18 @@ documents:
     id: 1c9a0f5e-a757-416c-abc2-3b10db7d1a6d
     category: epic
     status: Draft
-    moscow: Must
+    moscow: Should
     tshirt: M
     parent_press_release: organization-transitions-engineering-backlog-sprint-tracking-and-metrics-reporting-from-jira-and-tempo-to-strawberry-moon-and-onestack.pr.md
   - path: docs/StrawberryMoon/Execution/native-time-tracking-and-effort-logging-replaces-tempo-consolidating-scheduling-costing-and-l-d-reporting-in-a-unified-platform/1.tempo-historical-data-migration-and-ingestion-engine.epic.md
     id: 42f9b7c0-63ab-43be-a7b6-e2872e82b3f2
     category: epic
     status: Draft
-    moscow: Must
+    moscow: Should
     tshirt: L
     parent_press_release: native-time-tracking-and-effort-logging-replaces-tempo-consolidating-scheduling-costing-and-l-d-reporting-in-a-unified-platform.pr.md
   - path: docs/StrawberryMoon/Execution/frontier-toolset-successfully-retires-legacy-jira-and-tempo-infrastructure-completing-onestack-consolidation-and-reducing-operational-overhead.pr.md
     id: 6d90a1f1-58b3-4de3-aa1e-da8d00115995
-    category: press-release
-    status: Draft
-    tshirt: M
-    period: Q3 FY26
-    targetDate: 2026-09-30
-  - path: docs/StrawberryMoon/Execution/run-jira-tempo-and-strawberry-moon-onestack-in-parallel-for-controlled-validation-before-transitioning-to-read-only-mode.pr.md
-    id: 78bcc849-794e-482e-a2e5-dc18c7a34061
     category: press-release
     status: Draft
     tshirt: M
